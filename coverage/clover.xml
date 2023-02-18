@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1676731017287" clover="3.2.0">
+  <project timestamp="1676731017288" name="All files">
+    <metrics statements="19" coveredstatements="17" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4" elements="27" coveredelements="23" complexity="0" loc="19" ncloc="19" packages="3" files="3" classes="3"/>
+    <package name="CustomError">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CustomError.ts" path="/Users/marcgirbaubretcha/Desktop/programming/bootcamp/week6/w6chwe-back.nosync/src/CustomError/CustomError.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.controllers">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="robotsControllers.ts" path="/Users/marcgirbaubretcha/Desktop/programming/bootcamp/week6/w6chwe-back.nosync/src/server/controllers/robotsControllers.ts">
+        <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.middlewares">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="errorMiddlewares.ts" path="/Users/marcgirbaubretcha/Desktop/programming/bootcamp/week6/w6chwe-back.nosync/src/server/middlewares/errorMiddlewares.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
